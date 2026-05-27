@@ -71,8 +71,8 @@ User Query
 | Project | Description | Status |
 |---------|-------------|--------|
 | [🧠 SAI_instructions](https://github.com/NoFilterA1/SAI_instructions) | Self-Adaptive Intelligence — cognitive framework with 9 analysis techniques and 10-phase pipeline | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
-| [⚖️ LEX.KG](https://github.com/NoFilterA1/LEX.KG) | Intelligent legal assistant for document navigation and legal interaction | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
-| [🌍 WINDROOS](https://github.com/NoFilterA1/WINDROOS) | Adaptive AI guide for daily life and Netherlands law integration | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
+| [⚖️ LEX.KG](https://github.com/NoFilterA1/LEX.KG) | Intelligent legal assistant for document navigation and legal interaction | ![Final](https://img.shields.io/badge/Final-4CAF50?style=flat-square) |
+| [🌍 WINDROOS](https://github.com/NoFilterA1/WINDROOS) | Adaptive AI guide for daily life and Netherlands law integration | ![Paused](https://img.shields.io/badge/Paused-9E9E9E?style=flat-square) |
 | [🏕️ AI Consultant Altai](https://github.com/NoFilterA1/AI_Consultant_Altai_Camp) | Living AI consultant powered by prompt engineering | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
 | [🌐 TranslAI](https://github.com/NoFilterA1/translAI) | Real-time streaming translator with Ollama support | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
 
@@ -80,12 +80,12 @@ User Query
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🔒 DAL](https://github.com/NoFilterA1/DAL) | Device Access Locker — Python tool for app/service blocking via iptables + ARP spoofing | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
-| [🎵 SSH Music TUI](https://github.com/NoFilterA1/ssh-music-tui) | Control Spotify and system volume over SSH with CAVA visualizer in terminal | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
-| [🌈 OMEN RGB Linux](https://github.com/NoFilterA1/omen-rgb-linux) | HP OMEN 17 keyboard lighting controller for Linux with rainbow mode | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
-| [🍅 Waybar Pomodoro RGB](https://github.com/NoFilterA1/waybar-pomodoro-rgb-sync) | Sync HP OMEN RGB with Pomodoro timer state on Waybar | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
+| [🔒 DAL](https://github.com/NoFilterA1/DAL) | Device Access Locker — Python tool for app/service blocking via iptables + ARP spoofing | ![Paused](https://img.shields.io/badge/Paused-9E9E9E?style=flat-square) |
+| [🎵 SSH Music TUI](https://github.com/NoFilterA1/ssh-music-tui) | Control Spotify and system volume over SSH with CAVA visualizer in terminal | ![Final](https://img.shields.io/badge/Final-4CAF50?style=flat-square) |
+| [🌈 OMEN HUB Linux](https://github.com/NoFilterA1/omen-hub/) | OMEN Hub - GPU/fan/RGB control for OMEN GAMING 17 | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
+| [🍅 Waybar Pomodoro RGB](https://github.com/NoFilterA1/waybar-pomodoro-rgb-sync) | Sync HP OMEN RGB with Pomodoro timer state on Waybar | ![Archived](https://img.shields.io/badge/Archived-607D8B?style=flat-square) |
 | [⌨️ ZMK Config](https://github.com/NoFilterA1/nzmk-config) | Homemade ZMK firmware configuration | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
-| [⌨️ Vial QMK](https://github.com/NoFilterA1/vial-qmk) | Corne keyboard firmware and layout configuration | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
+| [⌨️ Vial QMK](https://github.com/NoFilterA1/vial-qmk) | Corne keyboard firmware and layout configuration | ![Archived](https://img.shields.io/badge/Archived-607D8B?style=flat-square) |
 
 ### 📚 Study & Reference
 
