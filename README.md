@@ -70,10 +70,10 @@ User Query
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🧠 SAI_instructions](https://github.com/NoFilterA1/SAI_instructions) | Self-Adaptive Intelligence — cognitive framework with 9 analysis techniques and 10-phase pipeline | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
+| [🧠 SAI_instructions](https://github.com/NoFilterA1/SAI_instructions) | Self-Adaptive Intelligence — cognitive framework with 9 analysis techniques and 10-phase pipeline | ![Final](https://img.shields.io/badge/Final-4CAF50?style=flat-square) |
 | [⚖️ LEX.KG](https://github.com/NoFilterA1/LEX.KG) | Intelligent legal assistant for document navigation and legal interaction | ![Final](https://img.shields.io/badge/Final-4CAF50?style=flat-square) |
-| [🌍 WINDROOS](https://github.com/NoFilterA1/WINDROOS) | Adaptive AI guide for daily life and Netherlands law integration | ![Paused](https://img.shields.io/badge/Paused-9E9E9E?style=flat-square) |
-| [🏕️ AI Consultant Altai](https://github.com/NoFilterA1/AI_Consultant_Altai_Camp) | Living AI consultant powered by prompt engineering | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
+| [🌍 WINDROOS](https://github.com/NoFilterA1/WINDROOS) | Adaptive AI guide for daily life and Netherlands law integration | ![Archived](https://img.shields.io/badge/Archived-607D8B?style=flat-square) |
+| [🏕️ AI Consultant Altai](https://github.com/NoFilterA1/AI_Consultant_Altai_Camp) | Living AI consultant powered by prompt engineering | ![Archived](https://img.shields.io/badge/Archived-607D8B?style=flat-square) |
 | [🌐 TranslAI](https://github.com/NoFilterA1/translAI) | Real-time streaming translator with Ollama support | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
 
 ### 🛠️ System Utilities & Tools
