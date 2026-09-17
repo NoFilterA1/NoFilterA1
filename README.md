@@ -83,6 +83,7 @@ User Query
 | [🌈 OMEN HUB Linux](https://github.com/NoFilterA1/omen-hub/) | OMEN Hub - GPU/fan/RGB control for OMEN GAMING 17 | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
 | [🎵 SSH Music TUI](https://github.com/NoFilterA1/ssh-music-tui) | Control Spotify and system volume over SSH with CAVA visualizer in terminal | ![Final](https://img.shields.io/badge/Final-4CAF50?style=flat-square) |
 | [⌨️ ZMK Config](https://github.com/NoFilterA1/nzmk-config) | Homemade ZMK firmware configuration | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
+| [🎬 OBS ZMK Widget](https://github.com/NoFilterA1/obs-zmk-widget) | Real-time ZMK keyboard overlay for OBS with layer detection and a full theme editor | ![Active](https://img.shields.io/badge/Active-FFB347?style=flat-square) |
 | [⌨️ Vial QMK](https://github.com/NoFilterA1/vial-qmk) | Corne keyboard firmware and layout configuration | ![Archived](https://img.shields.io/badge/Archived-607D8B?style=flat-square) |
 | [🔒 DAL](https://github.com/NoFilterA1/DAL) | Device Access Locker — Python tool for app/service blocking via iptables + ARP spoofing | ![Paused](https://img.shields.io/badge/Paused-9E9E9E?style=flat-square) |
 
