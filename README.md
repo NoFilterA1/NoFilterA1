@@ -66,6 +66,8 @@ Around that I build the things that make them usable: full-stack prototypes and 
 ## 🧠 SAI: Self-Adaptive Intelligence
 
 > A modular cognitive framework that restructures how AI thinks, reasons and evolves.
+>
+> **Origin:** an early take on the modular, skills-style approach to AI instructions: separate modules, agents and roles composed by a pipeline. The earliest commit in the repository is dated June 2023.
 
 ```mermaid
 flowchart LR
@@ -115,7 +117,7 @@ flowchart LR
 
 | Area | What I work with |
 |---|---|
-| **AI** | prompt engineering, multi-agent systems, LLM reasoning architectures, ChatGPT and Claude APIs, local models via Ollama |
+| **AI** | ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Expert-FFB347?style=flat-square&labelColor=0D1117) multi-agent systems, LLM reasoning architectures, ChatGPT and Claude APIs, local models via Ollama |
 | **Web and product** | Next.js, React, TypeScript, Tailwind CSS, SQLite, motion and UX |
 | **Systems** | Linux, Python and Bash tooling, hardware control, ZMK/QMK keyboard firmware |
 
