@@ -80,11 +80,13 @@ chips = f'<g font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" fo
 </g></svg>''')
 
 # ---------- разделитель-волна ----------
+# Период волны ровно 440 px: сдвиг на любую долю периода туда и обратно, без разрывов и пустых краёв.
 def wave(amp, ph, col, op):
-    pts = " ".join(f"{x},{12 + amp * math.sin(x / 70 + ph):.1f}" for x in range(0, 1301, 20))
-    return f'<polyline points="{pts}" fill="none" stroke="{col}" stroke-opacity="{op}" stroke-width="2"/>'
+    pts = " ".join(f"{x},{12 + amp * math.sin(x * 2 * math.pi / 440 + ph):.1f}" for x in range(-480, 1741, 10))
+    return f'<polyline points="{pts}" fill="none" stroke="{col}" stroke-opacity="{op}" stroke-width="2" stroke-linejoin="round"/>'
+SPL = 'calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"'
 (OUT / "divider.svg").write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="presentation">
-<g>{wave(5, 0, AMBER, .75)}<animateTransform attributeName="transform" type="translate" values="0 0;-440 0" dur="14s" repeatCount="indefinite"/></g>
-<g>{wave(4, 2, VIOLET, .55)}<animateTransform attributeName="transform" type="translate" values="-440 0;0 0" dur="18s" repeatCount="indefinite"/></g>
+<g>{wave(5, 0, AMBER, .75)}<animateTransform attributeName="transform" type="translate" values="0 0;-220 0;0 0" dur="9s" {SPL} repeatCount="indefinite"/></g>
+<g>{wave(4, 2, VIOLET, .55)}<animateTransform attributeName="transform" type="translate" values="-110 0;110 0;-110 0" dur="12s" {SPL} repeatCount="indefinite"/></g>
 </svg>''')
 print("static ok")
