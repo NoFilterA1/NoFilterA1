@@ -11,6 +11,12 @@
 
 </div>
 
+<div align="center">
+
+[🧠 SAI](#-sai--flagship-project) · [🎓 Competency Tracker](#-competency-tracker--featured-product) · [🚀 Projects](#-projects) · [🛠️ Skills](#-skills--tools) · [📊 Stats](#-github-stats)
+
+</div>
+
 ---
 
 ## About Me
@@ -21,6 +27,7 @@ Currently building **SAI** — a self-evolving AI system based on Logic + Creati
 
 - 🔭 Working on: SAI modular cognitive framework
 - 🌱 Exploring: Multi-agent architectures, LLM reasoning systems
+- 🎓 Shipped recently: a full-stack student competency tracker (Next.js 16 + SQLite), see below
 - 💡 Approach: Triple Talk — Logic + Creativity + Intuition
 - 💬 Discord: **doshlk**
 
@@ -55,16 +62,52 @@ User Query
 
 ---
 
+## 🎓 Competency Tracker — Featured Product
+
+<p align="center">
+  <a href="https://github.com/NoFilterA1/competency-tracker">
+    <img src="https://raw.githubusercontent.com/NoFilterA1/competency-tracker/main/docs/assets/banner.svg" alt="Competency Tracker" width="100%">
+  </a>
+</p>
+
+> A prototype that builds a student's soft and hard skill profile from their **digital footprint** (studies, projects, events, cases, volunteering) instead of one-off questionnaires. Built for a university startup accelerator.
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/NoFilterA1/competency-tracker/main/docs/screenshots/02-students-heatmap.png" alt="Heatmap"><br><sub><b>Heatmap:</b> students × 8 competencies</sub></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/NoFilterA1/competency-tracker/main/docs/screenshots/05-student-profile.png" alt="Student profile"><br><sub><b>Profile:</b> radar, levels, goals, recommendations</sub></td>
+  </tr>
+</table>
+
+| | |
+|---|---|
+| **What it does** | 8 competencies × 5 levels from weighted activity points; curator panel, status board, consent center, QR-verified passport, ROI calculator |
+| **Why it is built this way** | SQLite via `node:sqlite` and no external services, so it runs anywhere; every source can be switched off by the student |
+| **Stack** | ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-19-149eca?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-4-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Status** | ![Prototype](https://img.shields.io/badge/Prototype-demo_data-2dd4bf?style=flat-square) ![License](https://img.shields.io/badge/License-Proprietary-fb7185?style=flat-square) |
+
+[![Competency Tracker Repo](https://img.shields.io/badge/competency--tracker-View_Repository-2dd4bf?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/NoFilterA1/competency-tracker)
+
+> [!NOTE]
+> Source is visible for evaluation only. Copying, deploying or reusing it requires the author's written permission, see the repository license.
+
+---
+
 ### 📌 Quick Stats
 
-- **13 Active Repositories** — AI systems, utilities, and tools
-- **Primary Focus** — Cognitive AI frameworks and prompt engineering  
-- **Secondary Focus** — Linux system utilities and keyboard customization
-- **All Projects** — Fully documented and accessible for verification
+- **Public repositories:** AI systems, a full-stack web product, Linux utilities and keyboard firmware
+- **Primary focus:** cognitive AI frameworks and prompt engineering
+- **Also:** product prototypes, Linux system utilities, keyboard customization
 
 ---
 
 ## 🚀 Projects
+
+### 🎓 Web & Product
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [🎓 Competency Tracker](https://github.com/NoFilterA1/competency-tracker) | Student competency tracking from digital footprint: profiles, curator panel, consent center, QR passport | ![Prototype](https://img.shields.io/badge/Prototype-2dd4bf?style=flat-square) |
 
 ### 🧠 AI & Cognitive Systems
 
@@ -99,9 +142,18 @@ User Query
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,md,github,vscode,linux,obsidian&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,sqlite,bash,linux,github,vscode,md,obsidian&theme=dark)](https://skillicons.dev)
 
 </div>
+
+**Web & Product:**
+
+![Next.js](https://img.shields.io/badge/Next.js-FFB347?style=flat-square&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-FFB347?style=flat-square&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFB347?style=flat-square&labelColor=0D1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFB347?style=flat-square&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/SQLite-FFB347?style=flat-square&labelColor=0D1117)
+![UX & Motion](https://img.shields.io/badge/UX_%26_Motion-FFB347?style=flat-square&labelColor=0D1117)
 
 **AI & Prompt Engineering:**
 
