@@ -59,7 +59,7 @@ Around that I build the things that make them usable: full-stack prototypes and 
 </tr>
 </table>
 
-<sub>Cards are generated from the GitHub API and refresh daily. Competency Tracker is source-visible for evaluation only; see its license.</sub>
+<sub>Cards are generated from the GitHub API and refresh daily. Competency Tracker source code is closed.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
