@@ -13,5 +13,5 @@
 <text x="48" y="43" font-size="18" font-weight="700" fill="#f0f6fc">competency-tracker</text>
 <g transform="translate(423,24)"><rect width="89" height="26" rx="13" fill="#2DD4BF" fill-opacity=".14" stroke="#2DD4BF" stroke-opacity=".55"/><text x="44" y="17.5" font-size="12" font-weight="600" fill="#2DD4BF" text-anchor="middle">Prototype</text></g>
 <text x="28" y="84" font-size="13.5" fill="#9ba7b4">Student competency tracker built from digital footprint:</text><text x="28" y="104" font-size="13.5" fill="#9ba7b4">profiles, curator panel, consent center, QR passport.</text>
-<g transform="translate(28,146)" font-size="12.5" fill="#8b949e"><circle cx="5" cy="-4" r="5" fill="#3178c6"/><text x="16" y="0">TypeScript</text><text x="106" y="0">★ 0</text><text x="144" y="0">updated Oct 2026</text></g>
+<g transform="translate(28,146)" font-size="12.5" fill="#8b949e"><circle cx="5" cy="-4" r="5" fill="#6b7280"/><text x="16" y="0">Other</text><text x="70" y="0">★ 0</text><text x="108" y="0">updated Oct 2026</text></g>
 </svg>
