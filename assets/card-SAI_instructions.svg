@@ -13,5 +13,5 @@
 <text x="48" y="43" font-size="18" font-weight="700" fill="#f0f6fc">SAI_instructions</text>
 <g transform="translate(423,24)"><rect width="89" height="26" rx="13" fill="#FFB347" fill-opacity=".14" stroke="#FFB347" stroke-opacity=".55"/><text x="44" y="17.5" font-size="12" font-weight="600" fill="#FFB347" text-anchor="middle">Framework</text></g>
 <text x="28" y="84" font-size="13.5" fill="#9ba7b4">SAI: Modular cognitive AI framework | 9 analysis</text><text x="28" y="104" font-size="13.5" fill="#9ba7b4">techniques | 10-phase pipeline | Multi-agent architecture</text><text x="28" y="124" font-size="13.5" fill="#9ba7b4">| Adaptive reasoning</text>
-<g transform="translate(28,146)" font-size="12.5" fill="#8b949e"><circle cx="5" cy="-4" r="5" fill="#e34c26"/><text x="16" y="0">HTML</text><text x="63" y="0">★ 14</text><text x="101" y="0">updated May 2026</text></g>
+<g transform="translate(28,146)" font-size="12.5" fill="#8b949e"><circle cx="5" cy="-4" r="5" fill="#e34c26"/><text x="16" y="0">HTML</text><text x="63" y="0">★ 16</text><text x="101" y="0">updated May 2026</text></g>
 </svg>
